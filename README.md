@@ -1,3 +1,5 @@
-Bruno Castro Tomaz - 32150989
-Gustavo Saad Maluhy Andrade - 32173091
-Tomás Fiorelli Barbosa - 42122791
+# Computação Paralela - 05G/05G11
+### Grupo ONE
+- Bruno Castro Tomaz - TIA: 32150989
+- Gustavo Saad Maluhy Andrade - TIA: 32173091
+- Tomás Fiorelli Barbosa - TIA: 42122791
