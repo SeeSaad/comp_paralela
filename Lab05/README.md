@@ -7,3 +7,7 @@
 O speedup corresponde a:
 
 ![](Capturas/Screenshot%202023-10-27%20010345.png)
+
+Tabela comparativa entre execuções serial e paralela do prolema do trapézio:
+
+![](Capturas/Tabela de Resultados.png)
