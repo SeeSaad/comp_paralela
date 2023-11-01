@@ -10,4 +10,4 @@ O speedup corresponde a:
 
 Tabela comparativa entre execuções serial e paralela do prolema do trapézio:
 
-![](Capturas/Tabela de Resultados.png)
+![](Capturas/Tabela_de_Resultados.png)
