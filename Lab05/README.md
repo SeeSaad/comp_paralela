@@ -10,4 +10,9 @@ O speedup corresponde a:
 
 Tabela comparativa entre execuções serial e paralela do prolema do trapézio:
 
-![](Capturas/Tabela_de_Resultados.png)
+![](Capturas/Screenshot%202023-11-01%20090413.png)
+
+Não é possível simular um ambiente com mais de dois processadores na AWS learner lab.
+Portanto, a atividade foi modificada de modo a comparar a eficiencia de cada algorítmo dado o tamanho do problema e uma certa quantidade de threads e mantendo a mesma quantidade de processadores.
+
+Todos os códigos foram rodados em uma máquina com dois processadores, por isso, a eficiência foi calculada ao dividir o speedup por 2.,
