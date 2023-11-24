@@ -33,3 +33,30 @@ Além do código principal, foi desenvolvido um pequeno algoritmo em Python para
 Para executar esse código, basta inserir no terminal o comando abaixo:
 
 ```python "check.py"```
+
+## Resultados
+
+Foram obtidos dois resultados que serão apresentados abaixo. O primeiro foi gerado a partir do ambiente da AWS, enquanto que o segundo foi executado na máquina pessoal do integrante Gustavo (que possui uma CPU Ryzen 7 Serie 5000 | 8 CORE 16 THREADS).
+
+### AWS
+![](Capturas/TempoAWS.png)
+
+N = 1,000 (mil)
+
+PRECISION = 1,000,000 (um milhão)
+
+Primeira casa decimal diferente encontrada: 90,317
+
+Tempo: aprox. 44 segundos
+
+### Máquina pessoal
+
+![](Capturas/TempoPessoal.png)
+
+N = 100,000 (cem mil)
+
+PRECISION = 2,000,000 (dois milhões)
+
+Primeira casa decimal diferente encontrada: 456,981
+
+Tempo: aprox. 264 segundos (4 minutos e 26 segundos)
